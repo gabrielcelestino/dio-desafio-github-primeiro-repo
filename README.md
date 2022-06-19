@@ -6,4 +6,6 @@ Repositório criado para o desafio de projeto.
 
 [Sintaxe básica Markdown](www.markdownguide.org/basic-syntax/)
 
+Futuramente este repositório receberá atualizações sobre o progresso dos meus estudos. 
+
 
